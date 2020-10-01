@@ -6,7 +6,7 @@ Challenge accepted from [Forrest Brazeal](https://forrestbrazeal.com/2020/04/23/
 Project to demonstrate knowledge and skills in full-stack software development, version control, infrastructure as code, automation, continuous integration and delivery, cloud services and “serverless”, application security, and networking.
 
 **Completed**
-1. Certification
+1. AWS Certification
 2. HTML
 3. CSS
 4. Static S3 Website
@@ -14,13 +14,23 @@ Project to demonstrate knowledge and skills in full-stack software development, 
 6. DNS
 
 **In progress**
+
 7. Javascript
+
 8. Database
+
 9. API
+
 10. Python
+
 11. Tests
+
 12. Infrastructure as Code
+
 13. Source Control
+
 14. CI/CD (back end)
+
 15. CI/CD (front end)
+
 16. Blog post
