@@ -16,21 +16,12 @@ Project to demonstrate knowledge and skills in full-stack software development, 
 **In progress**
 
 7. Javascript
-
 8. Database
-
 9. API
-
 10. Python
-
 11. Tests
-
 12. Infrastructure as Code
-
 13. Source Control
-
 14. CI/CD (back end)
-
 15. CI/CD (front end)
-
 16. Blog post
