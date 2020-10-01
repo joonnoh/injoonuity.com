@@ -1,6 +1,8 @@
 # injoonuity.com
 Repository for cloud resume challenge @ [injoonuity.com](https://injoonuity.com)
 
+![injoonuity.png](injoonuity.png)
+
 Challenge accepted from [Forrest Brazeal](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/)
 
 Project to demonstrate knowledge and skills in full-stack software development, version control, infrastructure as code, automation, continuous integration and delivery, cloud services and “serverless”, application security, and networking.
