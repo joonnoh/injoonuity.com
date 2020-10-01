@@ -1,0 +1,58 @@
+/* External CSS file for injoonuity.com */
+
+/* Make sure all hyperlinks are black and not underlined */
+a { text-decoration: none; color: black;} /* Globally */
+a:hover, a:active, a:visited, a:focus { text-decoration: none; color:black; }
+
+/* Set background as animated cloud.gif  */
+body {
+  background-image: url("cloud.gif");
+  background-size: cover;
+}
+
+#page-container {
+  max-width:1400px;
+  opacity: 0.95;
+}
+
+#profile-picture {
+  width:50%;
+  border-radius:50%;
+  border: 0.1px solid;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+
+#name {
+  color:black;
+}
+
+#banner {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+/* Format certifications section */
+.certifications-block {
+  display: inline-block;
+  text-align: center;
+  width: 200px;
+}
+
+#floating-container {
+  width: 100%;
+}
+
+#floating-left {
+  width: 50%;
+  float:left;
+}
+
+#floating-right {
+  width: 50%;
+  float: right;
+}
+
+#footer-format {
+   padding-top: 30px;
+}
