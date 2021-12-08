@@ -20,6 +20,7 @@ Project to demonstrate knowledge and skills in full-stack software development, 
 10. Python
 
 **In progress**
+
 11. Tests
 12. Infrastructure as Code
 13. Source Control
