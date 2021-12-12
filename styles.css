@@ -56,3 +56,8 @@ body {
 #footer-format {
    padding-top: 30px;
 }
+
+/* Format visitor counter section */
+.visitorCountSection {
+  text-align: center;
+}
