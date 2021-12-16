@@ -5,25 +5,28 @@ Repository for cloud resume challenge @ [injoonuity.com](https://injoonuity.com)
 
 Challenge accepted from [Forrest Brazeal](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/)
 
-Project to demonstrate knowledge and skills in full-stack software development, version control, infrastructure as code, automation, continuous integration and delivery, cloud services and “serverless”, application security, and networking.
+Project to demonstrate knowledge and skills in full-stack software development, version control, infrastructure as code, automation, continuous integration and delivery, cloud services and serverless computing, application security, and networking.
 
 **Completed**
-1. AWS Certification
-2. HTML
-3. CSS
-4. Static S3 Website
-5. HTTPS
-6. DNS
-7. Javascript
-8. Database
-9. API
-10. Python
-11. Source Control
+1. AWS Certification (Solutions Architect Associate + Cloud Practitioner)
+2. HTML (Resume)
+3. CSS (Resume design)
+4. Static S3 Website (S3)
+5. HTTPS (CloudFront)
+6. DNS (Route 53)
+7. Javascript (Visitor Counter)
+8. Database (DynamoDB)
+9. API (API Gateway)
+10. Python (Lambda)
+11. Source Control (Git/GitHub)
 
-**In progress**
+**In Progress**
 
-12. Tests
-13. Infrastructure as Code
-14. CI/CD (back end)
-15. CI/CD (front end)
+12. Infrastructure as Code (Terraform)
+
+**To Do**
+
+13. Integration Tests (Cypress)
+14. Backend CI/CD (GitHub Actions)
+15. Frontend CI/CD (GitHub Actions)
 16. Blog post
