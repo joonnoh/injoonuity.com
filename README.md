@@ -18,12 +18,12 @@ Project to demonstrate knowledge and skills in full-stack software development, 
 8. Database
 9. API
 10. Python
+11. Source Control
 
 **In progress**
 
-11. Tests
-12. Infrastructure as Code
-13. Source Control
+12. Tests
+13. Infrastructure as Code
 14. CI/CD (back end)
 15. CI/CD (front end)
 16. Blog post
