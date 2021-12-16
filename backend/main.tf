@@ -16,15 +16,15 @@ provider "aws" {
   region  = "us-east-1"
 }
 
-resource "aws_dynamodb_table" "my_table" {
-  name         = var.table_name
-  billing_mode = var.table_billing_mode
+resource "aws_dynamodb_table" "MyTable" {
+  name         = var.MyTable_name
+  billing_mode = var.MyTable_billing_mode
   hash_key     = "ItemName"
   attribute {
     name = "ItemName"
     type = "S"
   }
   tags = {
-    environment = "${var.environment}"
+    environment = var.MyTable_environment
   }
 }
