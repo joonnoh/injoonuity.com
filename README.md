@@ -19,14 +19,14 @@ Project to demonstrate knowledge and skills in full-stack software development, 
 9. API (API Gateway)
 10. Python (Lambda)
 11. Source Control (Git/GitHub)
+12. Infrastructure as Code (Terraform)
 
 **In Progress**
 
-12. Infrastructure as Code (Terraform)
+13. Backend CI/CD (GitHub Actions)
+14. Frontend CI/CD (GitHub Actions)
 
 **To Do**
 
-13. Integration Tests (Cypress)
-14. Backend CI/CD (GitHub Actions)
-15. Frontend CI/CD (GitHub Actions)
+15. Integration Tests (Cypress)
 16. Blog post
