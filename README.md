@@ -29,4 +29,4 @@ Project to demonstrate knowledge and skills in full-stack software development, 
 **To Do**
 
 15. Integration Tests (Cypress)
-16. Blog post
+16. Blog posts
