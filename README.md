@@ -1,7 +1,9 @@
 # injoonuity.com
 Repository for cloud resume challenge @ [injoonuity.com](https://injoonuity.com)
 
-![screenshot.png](screenshot.png)
+![screenshot1.png](screenshot1.png)
+
+![screenshot2.png](screenshot2.png)
 
 Challenge accepted from [Forrest Brazeal](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/)
 
