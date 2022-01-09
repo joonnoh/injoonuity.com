@@ -29,8 +29,8 @@ jobs:
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: us-east-1
+          aws-region: us-east-2
 
       # Upload frontend files to S3 bucket
       - name: Deploy static site to S3 bucket
-        run: aws s3 sync . s3://injoonuitytestbucket --exclude "*" --include "index.html" --include "images/*" --include "frontend/*" --size-only
+        run: aws s3 sync . s3://injoonuity.com --exclude "*" --include "index.html" --include "images/*" --include "frontend/*" --size-only
