@@ -6,7 +6,7 @@ a:hover, a:active, a:visited, a:focus { text-decoration: none; color:black; }
 
 /* Set background as animated cloud.gif  */
 body {
-  background-image: url("images/cloud.gif");
+  background-image: url("/images/cloud.gif");
   background-size: cover;
 }
 
