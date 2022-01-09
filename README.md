@@ -20,11 +20,12 @@ Project to demonstrate knowledge and skills in full-stack software development, 
 10. Python (Lambda)
 11. Source Control (Git/GitHub)
 12. Infrastructure as Code (Terraform)
+13. Frontend CI/CD (GitHub Actions)
 
 **In Progress**
 
-13. Backend CI/CD (GitHub Actions)
-14. Frontend CI/CD (GitHub Actions)
+14. Backend CI/CD (GitHub Actions)
+
 
 **To Do**
 

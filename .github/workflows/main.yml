@@ -33,4 +33,4 @@ jobs:
 
       # Upload frontend files to S3 bucket
       - name: Deploy static site to S3 bucket
-        run: aws s3 sync . s3://injoonuitytestbucket --exclude "*" --include "index.html" --include "images/*" --include "frontend/*" --delete
+        run: aws s3 sync . s3://injoonuitytestbucket --exclude "*" --include "index.html" --include "images/*" --include "frontend/*" --size-only
